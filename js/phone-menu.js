@@ -19,5 +19,6 @@ cross_2.addEventListener("click", () => {
   phone_menu.style.transition = "all 1s ease";
   phone_menu.style.opacity = "0";
   phone_menu.style.transform = "translateY(150px)";
+  body_2.style.overflow = "inherit";
   phone_menu__fon.style.transform = "translateX(20000px)";
 });
