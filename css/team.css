@@ -323,7 +323,7 @@ img {
   margin-right: 6px;
 }
 
-.facebook:hover svg path {
+.header__facebook:hover svg path {
   fill: rgb(240, 20, 90);
   -webkit-transition: all 0.8s ease;
   transition: all 0.8s ease;

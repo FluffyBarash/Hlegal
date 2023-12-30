@@ -214,10 +214,22 @@ img {
   margin-right: 6px;
 }
 
-.facebook:hover {
+.header__facebook {
+  transition: all 0.8s ease;
+}
+
+.header__facebook:hover {
   & svg {
     & path {
       fill: $red;
+      transition: all 0.8s ease;
+    }
+  }
+}
+
+.header__facebook {
+  & svg {
+    & path {
       transition: all 0.8s ease;
     }
   }
