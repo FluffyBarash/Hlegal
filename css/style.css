@@ -784,6 +784,7 @@ img {
 }
 
 .services__title {
+  padding-right: 15px;
   background: var(--Gradient-Red-Text, linear-gradient(90deg, #f0145a 0.84%, #ef8080 99.96%));
   background-clip: text;
   -webkit-background-clip: text;
