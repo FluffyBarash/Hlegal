@@ -702,6 +702,16 @@ img {
   display: none;
 }
 
+.they-already-trust-us_line-2__left {
+  opacity: 0;
+  transform: translateX(-150px);
+}
+
+.they-already-trust-us_line-2__right {
+  opacity: 0;
+  transform: translateX(150px);
+}
+
 // #########_Main-Adaptive_###################################################
 // ------------------------------_1350px_------------------------------
 @media (max-width: 1350px) {

@@ -887,6 +887,20 @@ img {
   display: none;
 }
 
+.they-already-trust-us_line-2__left {
+  opacity: 0;
+  -webkit-transform: translateX(-150px);
+      -ms-transform: translateX(-150px);
+          transform: translateX(-150px);
+}
+
+.they-already-trust-us_line-2__right {
+  opacity: 0;
+  -webkit-transform: translateX(150px);
+      -ms-transform: translateX(150px);
+          transform: translateX(150px);
+}
+
 @media (max-width: 1350px) {
   .services__body {
     padding: 170px 60px 0px 60px;

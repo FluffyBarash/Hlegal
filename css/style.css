@@ -1300,6 +1300,20 @@ img {
   transition: all 0.8s ease;
 }
 
+.they-already-trust-us_line-2__left {
+  opacity: 0;
+  -webkit-transform: translateX(-150px);
+      -ms-transform: translateX(-150px);
+          transform: translateX(-150px);
+}
+
+.they-already-trust-us_line-2__right {
+  opacity: 0;
+  -webkit-transform: translateX(150px);
+      -ms-transform: translateX(150px);
+          transform: translateX(150px);
+}
+
 .section-left-swiper {
   display: none;
 }
